@@ -21,6 +21,8 @@
 # scam
 # tracking
 # UKCommBlocks
+# gambling
+# youtube
 
 
 #Basic coding convention notes from the coder.
@@ -52,7 +54,7 @@ def runCompile():
 
     files = ["lists/abuse", "lists/ads", "lists/adservers", "lists/CoinMiner", "lists/crypto", "lists/domainlist", "lists/drugs", "lists/fraud", "lists/hosts", "lists/justdomains", 
             "lists/list", "lists/list_browser", "lists/list_optional", "lists/malware", "lists/nrop", "lists/phishing", "lists/piracy", "lists/ransomware", "lists/redirect", 
-            "lists/scam", "lists/tracking", "lists/UKCommBlocks"] #array of file names. to be used on the loop to get file contents
+            "lists/scam", "lists/tracking", "lists/UKCommBlocks", "lists/gambling", "lists/youtube"] #array of file names. to be used on the loop to get file contents
 
     contents = ""
 
