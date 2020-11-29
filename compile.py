@@ -24,6 +24,9 @@
 # gambling
 # youtube
 
+#TO DO LIST:
+#1) Add a duplicate lookup and remover.
+
 
 #Basic coding convention notes from the coder.
 # inp: inp is a variable that i use in menus. either yes/no menus or a list 1/2/3/4... menu
